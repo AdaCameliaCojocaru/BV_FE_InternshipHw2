@@ -1,0 +1,28 @@
+header{
+    position:sticky;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color:#3D3D3D ;
+    padding:20px;
+    color: #FFC132
+}
+.logo{
+    width: 60px;
+}
+
+.navigator{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 10px;
+  color:#FFC132;
+  font-size: 20px;
+}
+
+.navigator-item{
+  color:#FFC132;
+  display: inline-block;
+  position: relative;
+}
