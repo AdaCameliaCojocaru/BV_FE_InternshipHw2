@@ -1,0 +1,30 @@
+.studentTable{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.studentTable thead tr {
+    background-color: #3D3D3D;
+    color: #F05B40;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.studentTable tbody td{
+    color: white;
+}
+
+.studentTable{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: large;
+  }
+  
+.studentTable tr:hover {
+    background-color: #666666;
+}

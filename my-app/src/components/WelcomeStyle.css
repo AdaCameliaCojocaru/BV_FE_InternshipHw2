@@ -1,0 +1,12 @@
+.welcomeMessage{
+    width: 100%;
+    font-size: 40px;
+    color: #FFC132;
+    position: center;
+    /* padding-top: 50px; */
+}
+.catalog{
+    width: 350px;
+    height: 350px;
+}
+
