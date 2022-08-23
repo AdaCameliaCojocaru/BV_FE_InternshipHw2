@@ -16,7 +16,7 @@ const Header = () => {
                     <Link to="/Students" className= "navigator-item">Students</Link>
                 </ul>
                 <ul>
-                    <Link to="/" className= "navigator-item">Groups</Link>
+                    <Link to="/Groups" className= "navigator-item">Groups</Link>
                 </ul>
                 <ul>
                     <Link to="/" className= "navigator-item">Courses</Link>

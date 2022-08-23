@@ -1,0 +1,14 @@
+.actionButton{
+    color:black;
+    font-size: 0.9em;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1.5px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top:20px;
+}
+
+.actionButton:hover{
+    cursor: pointer;
+}

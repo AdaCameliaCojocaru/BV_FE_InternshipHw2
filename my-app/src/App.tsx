@@ -2,8 +2,8 @@ import './App.css';
 
 import { Route, Routes } from 'react-router-dom';
 
-import Courses from './components/Courses';
 import Footer from './components/Footer';
+import Groups from './components/Groups';
 import Header from './components/Header';
 import Main from './components/Main';
 import React from 'react';
@@ -21,8 +21,8 @@ function App() {
           <Route path="" element={<Welcome/>}></Route>
           <Route path="welcome" element={<Welcome/>}></Route>
           <Route path="students" element={<Students/>}></Route>
-          <Route path="courses" element={<Courses/>}></Route>
-        </Routes>
+          <Route path="groups" element={<Groups/>}></Route>
+      </Routes>
       </Main>
       <Footer/>
     </div>

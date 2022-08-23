@@ -5,10 +5,13 @@
     font-family: sans-serif;
     min-width: 400px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    width: 100%;
 }
 .studentTable thead tr {
     background-color: #3D3D3D;
-    color: #F05B40;
+    color: white;
     text-align: center;
     padding-top: 12px;
     padding-bottom: 12px;
